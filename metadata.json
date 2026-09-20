@@ -1,0 +1,7 @@
+{
+  "name": "CPU Scheduler Visualizer",
+  "description": "Mobile-first CPU Scheduling Algorithms Visualizer and Comparison Tool (FCFS, SJF, SRTF, RR, Priority)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
