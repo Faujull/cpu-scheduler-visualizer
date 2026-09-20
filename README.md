@@ -55,4 +55,3 @@ All algorithms accurately account for:
 ## 👥 Credits
 
 - **Author**: Faujul
-- **License**: MIT
