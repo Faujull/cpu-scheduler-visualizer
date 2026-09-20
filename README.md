@@ -19,7 +19,7 @@ You can download and install the pre-compiled Android APK directly to your phone
 
 ---
 
-## 🚀 Supported Algorithms
+##  Supported Algorithms
 
 1. **FCFS** (First-Come, First-Served) — Non-preemptive
 2. **SJF** (Shortest Job First) — Non-preemptive
@@ -36,7 +36,7 @@ All algorithms accurately account for:
 
 ---
 
-## ✨ Key Features
+##  Key Features
 
 - **Interactive Gantt Chart**: Pure CSS/Flexbox rendered timeline with proportional durations, process color coding, time boundary labels, and explicit CPU idle markers.
 - **Side-by-Side Algorithm Comparison**: Test multiple scheduling algorithms simultaneously using the exact same process inputs and highlight the best (lowest) average waiting and turnaround times.
@@ -51,52 +51,8 @@ All algorithms accurately account for:
 - Node.js (v18+)
 - npm or bun
 
-### Setup & Run
-```bash
-# 1. Clone the repository
-git clone https://github.com/<your-username>/cpu-scheduler-visualizer.git
-cd cpu-scheduler-visualizer
-
-# 2. Install dependencies
-npm install
-
-# 3. Start local development server
-npm run dev
-```
-Open your browser at `http://localhost:3000`.
-
-### Build Web App
-```bash
-npm run build
-```
-
----
-
-## 📦 Building the Android APK with Capacitor
-
-If you want to compile the Android APK yourself:
-
-```bash
-# 1. Build the production web bundle
-npm run build
-
-# 2. Sync web assets into Android project
-npx cap sync
-
-# 3. Build APK with Gradle
-cd android
-./gradlew assembleDebug
-```
-
-The compiled APK will be located at:
-```
-android/app/build/outputs/apk/debug/app-debug.apk
-```
-
----
 
 ## 👥 Credits
 
-- **Instructor**: Md. Ismail
 - **Author**: Faujul
 - **License**: MIT
