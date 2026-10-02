@@ -11,7 +11,7 @@ You can download and install the pre-compiled Android APK directly to your phone
 👉 **[Download Latest APK from Releases](../../releases/latest)**
 
 ### How to Install on Android:
-1. Download `app-debug.apk` onto your phone from the Releases page.
+1. Download `CPU.Scheduler.Visualizer.apk` onto your phone from the Releases page.
 2. Tap the file in your notifications or Downloads folder.
 3. If prompted with *"For your security, your phone is not allowed to install unknown apps from this source"*, tap **Settings** and toggle **"Allow from this source"**.
 4. Tap **Install** and open **CPU Scheduler**.
